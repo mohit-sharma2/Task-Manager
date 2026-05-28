@@ -23,8 +23,8 @@ A full-stack task management application built for the Keplix Fullstack Internsh
 ### 1. Clone & install
 
 ```bash
-git clone <your-repo-url>
-cd keplix-task-manager
+git clone <https://github.com/mohit-sharma2/Task-Manager.git>
+cd keplixassetment
 ```
 
 ### 2. Backend
@@ -87,7 +87,7 @@ App runs at `http://localhost:5173`
 ```json
 {
   "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
-  "user": { "id": "664abc...", "name": "Arjun Sharma", "email": "arjun@example.com" }
+  "user": { "id": "664abc...", "name": "Mohit Sharma", "email": "mohit@example.com" }
 }
 ```
 
