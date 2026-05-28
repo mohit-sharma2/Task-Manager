@@ -1,4 +1,4 @@
-# Keplix Task Manager
+# Task Manager
 
 A full-stack task management application built for the Keplix Fullstack Internship Assignment.
 
